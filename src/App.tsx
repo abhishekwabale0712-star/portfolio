@@ -1144,7 +1144,7 @@ export default function App() {
             © {new Date().getFullYear()} Abhishek Wabale. All rights reserved.
           </div>
           <div className="flex space-x-6">
-            <a href="https://linkedin.com/in/abhishekwabale" className="w-12 h-12 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-slate-400 hover:text-white hover:bg-white/10 transition-all">
+            <a href="https://www.linkedin.com/in/abhishek-wabale-a7b322189/" className="w-12 h-12 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-slate-400 hover:text-white hover:bg-white/10 transition-all">
               <Linkedin className="w-5 h-5" />
             </a>
             <a href="mailto:abhishekkwabale@gmail.com" className="w-12 h-12 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-slate-400 hover:text-white hover:bg-white/10 transition-all">
