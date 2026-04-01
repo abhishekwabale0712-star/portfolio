@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import { motion, AnimatePresence, useScroll } from "motion/react";
+import { motion, AnimatePresence, useScroll } from "framer-motion";
 import { 
   ArrowRight, 
   Mail, 
