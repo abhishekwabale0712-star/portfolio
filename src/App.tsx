@@ -1107,7 +1107,7 @@ export default function App() {
           <motion.div {...fadeIn}>
             <h2 className="text-6xl lg:text-8xl font-display font-black mb-10 tracking-tighter">Let's Connect</h2>
             <p className="text-xl text-slate-400 mb-16 max-w-2xl mx-auto font-medium leading-relaxed">
-              Open to discussing product strategy, growth experiments, or the future of AI in SaaS.
+              Open to discussing product strategy, growth experiments, or the future of AI.
             </p>
             
             <div className="flex flex-wrap justify-center gap-6">
@@ -1120,7 +1120,7 @@ export default function App() {
                 <ChevronRight className="w-5 h-5 opacity-0 group-hover:opacity-100 group-hover:translate-x-2 transition-all" />
               </a>
               <a 
-                href="https://linkedin.com/in/abhishekwabale" 
+                href="https://www.linkedin.com/in/abhishek-wabale-a7b322189/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 bg-white/10 backdrop-blur-md border border-white/20 text-white px-12 py-6 rounded-xl font-black text-lg hover:bg-white/20 transition-all"
